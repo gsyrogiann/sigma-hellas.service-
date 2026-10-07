@@ -35,6 +35,8 @@
 
 ## Νέα περιστατικά 07/10/2026
 
+- TSC TE210 — διάφανη 80×50 mm με Black Mark, calibration και κόκκινη ένδειξη
+
 - Zebra ZD220 — κενή ετικέτα πριν από voucher, Reset to Default, calibration και 105×148 mm
 - TSC TE200 — macOS 27, Rosetta 2 και νέα εγκατάσταση printer
 - TSC — αλλαγή διάστασης ετικέτας, Gap/Black Mark calibration και Ribbon Encoder
