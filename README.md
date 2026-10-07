@@ -31,3 +31,13 @@
 - Inkjet — Nozzle Check, αυτόματος καθαρισμός και Maintenance Box
 - Reiner jetStamp 990 — firmware, cartridge και PCset
 - HPRT SL32BT — OpenLabel+ με drivers Seagull Scientific
+
+
+## Νέα περιστατικά 07/10/2026
+
+- Zebra ZD220 — κενή ετικέτα πριν από voucher, Reset to Default, calibration και 105×148 mm
+- TSC TE200 — macOS 27, Rosetta 2 και νέα εγκατάσταση printer
+- TSC — αλλαγή διάστασης ετικέτας, Gap/Black Mark calibration και Ribbon Encoder
+- BarTender — pixelated εικόνα και έλεγχος ανάλυσης αρχείου PNG
+- BarTender 12.1 — trial/λογαριασμός σε άλλο PC και νέα εγκατάσταση
+- Γενικό Service — πρώτη χρήση εκτυπωτή, τοποθέτηση ετικέτας/ribbon και βασική εκπαίδευση
